@@ -39,7 +39,7 @@ For more in depth information about **anything** that is included in this config
 
 # *️⃣ Features
 * `Keybinds` Adds more options for keybinds which you can configure ingame.
-* `No Streaming + GC On & Remove GC Stutter` In depth information [**HERE**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md).
+* `No Streaming + GC On & Remove GC Stutter` In depth information [**HERE**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md#no-streaming--gc-on-do-not-mix-with-gc-off).
 * `Remove Vivox` Removes / blocks the Vivox Voice Service.
 
 # ✴️ Interface
@@ -55,7 +55,7 @@ Pink - Pink / White /Grey
 Grey - Greyscale with a hint of red.
 ```
 # 🆒 Visual
-* `Graphics` For all the presets please visit [**THIS**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md) page.
+* `Graphics` For all the presets please visit [**THIS**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md#graphics) page.
 * `No Login Screen` Removes the background of the login, character selection and district selection screen (Turns black)
 * `No Ragdolls` Removes Ragdolls.
 
