@@ -1,14 +1,16 @@
 # 🔧 Richard APB Cfg 
 `DISCLAIMER`
 ```
-I take 0 responsibility for any damage done to your game or your account. Installing these configs are always at your own risk!
+I take 0 responsibility for any damage done to your game or your account.
+Installing these configs are always at your own risk!
 Some of the files shared may (officially) be against the Terms of Service (ToS).
 ```
 
 # 🔄 Installation
 Start by creating a new shortcut so the game won't launch through the `APB Launcher`.
 ```
-Launching the game through "the APB Launcher" will cause the game to replace your newly installed config files
+Launching the game through "the APB Launcher"
+will cause the game to replace your newly installed config files.
 ```
 You can create a new shortcut by going to your APB game directory `APB Reloaded\Binaries`, right click the `APB.exe > Create shortcut` and place this where ever you usually start your game from.
 ```
