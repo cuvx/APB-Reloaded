@@ -1,10 +1,9 @@
 # 🔧 Richard APB Cfg 
 `DISCLAIMER`
-```
-I take 0 responsibility for any damage done to your game or your account.
-Installing these configs are always at your own risk!
-Some of the files shared may (officially) be against the Terms of Service (ToS).
-```
+
+**I take 0 responsibility for any damage done to your game or your account. Installing these configs are always at your own risk!
+Some of the files shared may (officially) be against the Terms of Service (ToS).**
+
 
 # 🔄 Installation
 Start by creating a new shortcut so the game won't launch through the `APB Launcher`.
@@ -21,8 +20,8 @@ Your APB folder is usually found at:
 After creating your shortcut you have the option to add some of the following `Launch Arguments`
 * `-language=1031` Tells your game to start with your installed localization.
 * `-nomovies` Removes all loading screens.
-* `nosplash` Removes the splashscreen when starting the game.
-* `nosteam` Removes the connection to Steam.
+* `-nosplash` Removes the splashscreen when starting the game.
+* `-nosteam` Removes the connection to Steam.
 
 ![Example](https://i.imgur.com/HsxvJcC.jpg)
 
