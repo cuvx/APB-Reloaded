@@ -47,7 +47,7 @@ For more in depth information about **anything** that is included in this config
    > `Adam` More functional version.
    >> `Jeshua` Includes the White Stage Timer but will remove text and icons in some of the kiosks.
 
-    >![Preview](https://i.imgur.com/nSNsg5H.jpg)
+    > ![Preview](https://i.imgur.com/nSNsg5H.jpg)
 * `Localization` Color changes, raplacements and removals (Previews will be uploaded later)
 ``` 
 Blue - Blue / White /Grey 
