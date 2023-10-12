@@ -23,7 +23,7 @@ After creating your shortcut you have the option to add some of the following `L
 * `-nosplash` Removes the splashscreen when starting the game.
 * `-nosteam` Removes the connection to Steam.
 
-![Example](https://i.imgur.com/HsxvJcC.jpg)
+![Example](https://i.imgur.com/c2ONlqu.jpg)
 
 Now you can start dragging your desired configs in to the `APB Reloaded` directory.
 
