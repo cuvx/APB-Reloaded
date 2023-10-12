@@ -23,7 +23,7 @@ After creating your shortcut you have the option to add some of the following `L
 * `-nosplash` Removes the splashscreen when starting the game.
 * `-nosteam` Removes the connection to Steam.
 
-![Example](https://i.imgur.com/c2ONlqu.jpg)
+![Example](https://i.imgur.com/KeKjuOb.jpg)
 
 Now you can start dragging your desired configs in to the `APB Reloaded` directory.
 
@@ -47,7 +47,7 @@ For more in depth information about **anything** that is included in this config
    > `Adam` More functional version.
    >> `Jeshua` Includes the White Stage Timer but will remove text and icons in some of the kiosks.
 
-    >![Preview](https://i.imgur.com/A6kbWuL.jpg)
+    >![Preview](https://i.imgur.com/c2ONlqu.jpg)
 * `Localization` Color changes, raplacements and removals (Previews will be uploaded later)
 ``` 
 Blue - Blue / White /Grey 
