@@ -70,8 +70,21 @@ Grey - Greyscale with a hint of red.
 
   ![Preview](https://i.imgur.com/We01e6n.png)
 ```
-Will work on a new splashscreen soon
+Will work on a new splashscreen some day.
 ```
+* `Black Sky`
+   * **Black Sky** - Completely Removes the sky, making it all black.
+   * **Black Sky + FullBright** - All the above + adjusts the gamma to make dark spots lighter.
+   * **Black Sky + FullBright + No Weather** - All the above + Removes a green tint whilst adding more vibrance.
+   * **Black Sky + No Weather** - Removes the sky + Removes a green tint whilst adding more vibrance.
+
+<details>
+   <summary>Black Sky Previews</summary>
+
+   ![Preview](https://i.imgur.com/wNexITg.jpeg)
+   ![Preview](https://i.imgur.com/KnTMNbo.jpeg)
+   ![Preview](https://i.imgur.com/VMj7Uuu.jpeg)
+</details>
 
 # ❎ Disabling UI Elements
 There are options to disable some UI elements as shown in the screenshot below.
@@ -91,7 +104,7 @@ In this specific screenshot the following elements were disabled:
 ```
 # 🤝🏻 Credits
 * Iazer - Sorting the mess that is called my config + Being helpful.
-* Flaws - Older Keybinds, File Structure, No Ragdolls
+* Flaws - Older Keybinds, File Structure, No Ragdolls (I stole his Black Sky)
 * rooq - Mission Descriptions
 * Esurient - Engine Related Changes
 * Leefekyn - Alt Mission Titles
