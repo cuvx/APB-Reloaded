@@ -104,11 +104,11 @@ In this specific screenshot the following elements were disabled:
 ```
 # 🤝🏻 Credits
 * Iazer - Sorting the mess that is called my config + Being helpful.
-* Flaws - Older Keybinds, File Structure, No Ragdolls (I stole his Black Sky)
+* Flaws - Older Keybinds, File Structure, No Ragdolls
 * rooq - Mission Descriptions
 * Esurient - Engine Related Changes
 * Leefekyn - Alt Mission Titles
-* mewpri - Studio Keybinds
+* mewpri - Studio Keybinds, Black Sky
 * Pascal - Ambient Sound Removal, GC Related Stuff
 * ApollyoNite - RTW Vegas / Bishada
 * jmilos - Combat / Vehicle Keybinds
