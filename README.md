@@ -1,8 +1,8 @@
 # 🔧 Richard APB Cfg 
-`DISCLAIMER`
 
-**I take 0 responsibility for any damage done to your game or your account. Installing these configs are always at your own risk!
-Some of the files shared may (officially) be against the Terms of Service (ToS).**
+> [!CAUTION]
+>I take 0 responsibility for any damage done to your game or your account. Installing these configs are always at your own risk!
+>Some of the files shared may (officially) be against the Terms of Service (ToS).
 
 
 # 🔄 Installation
@@ -30,78 +30,60 @@ Now you can start dragging your desired configs in to the `APB Reloaded` directo
 # 🧠 More in Depth 
 For more in depth information about **anything** that is included in this config, I recommend you visiting [**this**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md) page.
 
-# 🎛️ Audio 
-* `Remove Ambient Sounds`  Removes unnecessary audio.
-* `Remove Dialogue` Removes all voicelines from your character, npcs & contacts.
-* `Vegas + Bishada Sound` Changes the audio of the Vegas, Bishada, Growl and Coywolf.
-* `Vegas Sound` Solely changes the Patriot Vegas sound back to the RTW version.
-* `Vehicle Amp Levels` Lowers the audio (Music) coming from speakers (Cars/Boomboxes).
+# 🎨 Color Codes (Coming soon)
+4 PDF Files with all(?) colors available to you in APB:Reloaded.
+Split up between
+* `Blue/Purple`
+* `Red/Pink`
+* `Yellow/Orange`
+* `Green`
+* `Greyscale`
+
+You'll have all color names and codes available for you to customize your own or my preset Localization colors.
 
 # *️⃣ Features
-* `Keybinds` Adds more options for keybinds which you can configure ingame.
-* `No Streaming + GC On & Remove GC Stutter` In depth information [**HERE**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md#no-streaming--gc-on-do-not-mix-with-gc-off).
-* `Remove Vivox` Removes / blocks the Vivox Voice Service.
+* `FPS Unlock, DTS and GC`
+   * `DTS (Disable Texture Streaming) and no GC (Garbage Collection)`
+   * `DTS (Disable Texture Streaming) only`
+   * `Unlocked FPS` 
+
+For more information I recommend watching [**THIS**](https://www.youtube.com/watch?v=Io6zH9rIBx8) video or/and read the [**THIS**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md#no-streaming--gc-on-do-not-mix-with-gc-off) page.
+> [!NOTE]
+> Social Kiosks with a loading screen such as the Wardrobe, Garage and Character Kiosk, will freeze upon entering the loading screen. The remaining studios, theme and symbol however do work.
+* `Keybinds` Adds new keybinds to set in-game such as autosprint and Breakwater Marina Kiosks.
+
+
+![Preview](https://i.imgur.com/MMX4lUc.jpeg)
+
 
 # ✴️ Interface
-* `Faster UI` Removes loads of UI elements.
-   > `Adam` More functional version.
-   >> `Jeshua` Includes the White Stage Timer but will remove text and icons in some of the kiosks.
 
-![Preview](https://i.imgur.com/nSNsg5H.jpg)
 * `Localization` Color changes, raplacements and removals (Previews will be uploaded later)
 ``` 
-Blue - Blue / White /Grey 
-Pink - Pink / White /Grey
-Grey - Greyscale with a hint of red.
+Blue & White
+Pink & White
+Purple & White
+Greyscale
 ```
+<details>
+   <summary>Just one preview so far</summary>
+
+   ![Preview](https://i.imgur.com/PWLP6VR.jpeg)
+  
+</details>
+
 # 🆒 Visual
 * `Graphics` For all the presets please visit [**THIS**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md#graphics) page.
-* `No Login Screen` Removes the background of the login, character selection and district selection screen (Turns black)
-* `No Ragdolls` Removes Ragdolls.
+* `Ragdolls` Many options to remove Ragdolls and/or Muzzleflash
 
   * **No NPC Ragdolls Only + Muzzle Off** - Removes only NPC Ragdolls and Removes Muzzleflash.
   * **No NPC Ragdolls Only + Muzzle On** - Removes only NPC Ragdolls but keeps Muzzleflash.
   * **No Ragdolls + Muzzle Off** - Removes all Ragdolls and removes Muzzleflash.
   * **No Ragdolls + Muzzle On** - Removes all Ragdolls but kkeeps Muzzleflash.
-  * **Normal Ragdolls** - Turns on all Ragdolls.
+  * **Ragdolls On + Muzzle Off** - Turns on all Ragdolls but removes Muzzleflash.
+  * **Ragdolls On + Muzzle On** - Turns on all Ragdolls and keeps Muzzleflash.
 
-* `Emitter Fix` NPCs will only be played when they are close and are quieter.
-* `Richard Splash Screen` New "Custom" Splashscreen (For if you haven't disabled it).
 
-  ![Preview](https://i.imgur.com/We01e6n.png)
-```
-Will work on a new splashscreen some day.
-```
-* `Black Sky`
-   * **Black Sky** - Completely Removes the sky, making it all black.
-   * **Black Sky + FullBright** - All the above + adjusts the gamma to make dark spots lighter.
-   * **Black Sky + FullBright + No Weather** - All the above + Removes a green tint whilst adding more vibrance.
-   * **Black Sky + No Weather** - Removes the sky + Removes a green tint whilst adding more vibrance.
-
-<details>
-   <summary>Black Sky Previews</summary>
-
-   ![Preview](https://i.imgur.com/wNexITg.jpeg)
-   ![Preview](https://i.imgur.com/KnTMNbo.jpeg)
-   ![Preview](https://i.imgur.com/VMj7Uuu.jpeg)
-</details>
-
-# ❎ Disabling UI Elements
-There are options to disable some UI elements as shown in the screenshot below.
-<br/>Due to there being a lot of options, I recommend visiting [**this**](https://github.com/lvzxr/apb-reloaded/blob/main/UI.md) page.
-
-![Preview](https://i.imgur.com/KHfAv1T.png)
-```
-In this specific screenshot the following elements were disabled:
-- Group list [Top left]
-- Usables icon [Right side]
-- Money [Top right]
-- Bounty / Killstreak / Winstreak [Popup]
-- Contact icon [Top left]
-- Dirty money [Top left]
-- Challenges [Top left]
-- Daily Activities [Top left]
-```
 # 🤝🏻 Credits
 * Iazer - Sorting the mess that is called my config + Being helpful.
 * Flaws - Older Keybinds, File Structure, No Ragdolls
