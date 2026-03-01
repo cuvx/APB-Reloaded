@@ -1,5 +1,10 @@
 # 🔧 Richard APB Cfg 
 
+> [!IMPORTANT]
+> This repository is still under construction. Not all information or previews have been updated and uploaded.
+> Please bare with me until I have fully updated this page.
+> Outdated information has finally been removed from this page after many months/years.
+
 > [!CAUTION]
 >I take 0 responsibility for any damage done to your game or your account. Installing these configs are always at your own risk!
 >Some of the files shared may (officially) be against the Terms of Service (ToS).
