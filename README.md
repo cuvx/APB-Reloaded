@@ -1,27 +1,27 @@
 # 🔧 Richard APB Cfg 
 
-> [!IMPORTANT]
-> This repository is still under construction. Not all information or previews have been updated and uploaded.
-> Please bare with me until I have fully updated this page.
-> Outdated information has finally been removed from this page after many months/years.
-
 > [!CAUTION]
->I take 0 responsibility for any damage done to your game or your account. Installing these configs are always at your own risk!
->Some of the files shared may (officially) be against the Terms of Service (ToS).
+> **I take 0 responsibility for any harm done to your game or your account.**  
+> **Adding customized files is always at your own risk!**  
+> **All files shared should fall in line with what Little Orbit allows when it comes to customizing our game.**  
+> **If you're experiencing any issues with your game, please contact Little Orbit directly by mailing Support@littleorbit.com**
 
 
 # 🔄 Installation
 Start by creating a new shortcut so the game won't launch through the `APB Launcher`.
-```
-Launching the game through "the APB Launcher"
-will cause the game to replace your newly installed config files.
-```
+
+> [!IMPORTANT]
+> Launching the game through "the APB Launcher"
+> will cause the game to replace your newly installed config files.
+
+
 You can create a new shortcut by going to your APB game directory `APB Reloaded\Binaries`, right click the `APB.exe > Create shortcut` and place this where ever you usually start your game from.
-```
-Your APB folder is usually found at:
-- Drive:\Gamersfirst\APB Reloaded\
-- Drive:\Steam\steamapps\common\APB Reloaded\
-```
+
+> [!TIP]
+> Your APB folder is usually found at:
+> - Drive:\Gamersfirst\APB Reloaded\
+> - Drive:\Steam\steamapps\common\APB Reloaded\
+
 After creating your shortcut you have the option to add some of the following `Launch Arguments`
 * `-language=1031` Tells your game to start with your installed localization.
 * `-nomovies` Removes all loading screens.
@@ -44,18 +44,30 @@ Split up between
 * `Green`
 * `Greyscale`
 
+![Preview](https://i.imgur.com/jHYjT6Q.jpeg)
+
 You'll have all color names and codes available for you to customize your own or my preset Localization colors.
 
 # *️⃣ Features
-* `FPS Unlock, DTS and GC`
-   * `DTS (Disable Texture Streaming) and no GC (Garbage Collection)`
-   * `DTS (Disable Texture Streaming) only`
-   * `Unlocked FPS` 
+## `FPS Unlock, DTS and GC`  
+####  `DTS (Disable Texture Streaming) and no GC (Garbage Collection)`  
+####  `DTS (Disable Texture Streaming) only`  
+####  `Unlocked FPS`   
 
-For more information I recommend watching [**THIS**](https://www.youtube.com/watch?v=Io6zH9rIBx8) video or/and read the [**THIS**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md#no-streaming--gc-on-do-not-mix-with-gc-off) page.
-> [!NOTE]
+**Not sure how to set your own FPS cap? Please watch [**THIS**](https://www.youtube.com/watch?v=Io6zH9rIBx8) video!**
+> [!CAUTION]
 > Social Kiosks with a loading screen such as the Wardrobe, Garage and Character Kiosk, will freeze upon entering the loading screen. The remaining studios, theme and symbol however do work.
-* `Keybinds` Adds new keybinds to set in-game such as autosprint and Breakwater Marina Kiosks.
+
+## `Keybinds`   
+Adds new keybinds to set in-game.  
+> Autosprint  
+> Hold crouch  
+> Abandon Mission  
+> Hold Lean  
+> Primary/Secondary weapon  
+> Social Designers  
+> In-Game Music player volume  
+> Camera look up & down  
 
 
 ![Preview](https://i.imgur.com/MMX4lUc.jpeg)
@@ -63,23 +75,76 @@ For more information I recommend watching [**THIS**](https://www.youtube.com/wat
 
 # ✴️ Interface
 
-* `Localization` Color changes, raplacements and removals (Previews will be uploaded later)
-``` 
-Blue & White
-Pink & White
-Purple & White
-Greyscale
-```
-<details>
-   <summary>Just one preview so far</summary>
 
-   ![Preview](https://i.imgur.com/PWLP6VR.jpeg)
+## `Localization` 
+Color changes, raplacements and removals.
+I'll be working on new colors soon...(ish)
+
+* `Blue & White`
+* `Pink & White`
+* `Purple & White`
+* `Greyscale`
+
+![Preview](https://i.imgur.com/3cUOP9P.jpeg)
+
+## `Extras` 
+
+> [!TIP]
+> Click on the text with ▶ arrows in front to reveal a preview.
+
+#### `Default Objective Types` 
+
+Removes what each objective is. 
+
+#### `Mission Titles + Equipment` 
+
+<details> <summary>Adds amount of stages, Final stage & what equipment is needed.</summary>
+
+   ![Preview](https://i.imgur.com/kbtU1LT.jpeg)
   
 </details>
+ 
+#### `Remove Street Names` 
+
+Removes Streetnames in the bottom right.  
+
+#### `Short Chat Categories` 
+
+<details> <summary>Shortens chat channels from words to abbreviations.</summary>
+
+   ![Preview](https://i.imgur.com/UZuibSb.jpeg)
+  
+</details>  
+
+#### `Vehicle Stats` 
+
+<details> <summary>Replaces the description to the vehicles statistics.</summary>
+
+   ![Preview](https://i.imgur.com/ewauulk.jpeg)
+  
+</details>  
+
+#### `Weapon Stats` 
+
+<details> <summary>Replaces the description to the weapons statistics.</summary>
+
+   ![Preview](https://i.imgur.com/Wo1EBhQ.jpeg)
+  
+</details>    
+
+## `Transparent UI`  
+Makes UI elements slightly more transparent.  
+> [!CAUTION]
+> Joker Tickets and APB$ icons disappear in the inventory menu when using Transparent UI.
+
+![Preview](https://i.imgur.com/NfhG9IY.jpeg)
+
 
 # 🆒 Visual
-* `Graphics` For all the presets please visit [**THIS**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md#graphics) page.
-* `Ragdolls` Many options to remove Ragdolls and/or Muzzleflash
+## `Graphics`  
+For all the presets please visit [**THIS**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md#graphics) page.
+## `Ragdolls`   
+Many options to remove Ragdolls and/or Muzzleflash
 
   * **No NPC Ragdolls Only + Muzzle Off** - Removes only NPC Ragdolls and Removes Muzzleflash.
   * **No NPC Ragdolls Only + Muzzle On** - Removes only NPC Ragdolls but keeps Muzzleflash.
