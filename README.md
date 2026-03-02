@@ -35,8 +35,8 @@ Now you can start dragging your desired configs in to the `APB Reloaded` directo
 # 🧠 More in Depth 
 For more in depth information about **anything** that is included in this config, I recommend you visiting [**this**](https://github.com/lvzxr/apb-reloaded/blob/main/README.md) page.
 
-# 🎨 Color Codes (Coming soon)
-4 PDF Files with all(?) colors available to you in APB:Reloaded.
+# 🎨 Color Codes
+5 PDF Files with all(?) colors available to you in APB:Reloaded.
 Split up between
 * `Blue/Purple`
 * `Red/Pink`
