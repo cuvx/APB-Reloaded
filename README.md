@@ -155,14 +155,12 @@ Many options to remove Ragdolls and/or Muzzleflash
 
 
 # 🤝🏻 Credits
-* Iazer - Sorting the mess that is called my config + Being helpful.
-* Flaws - Older Keybinds, File Structure, No Ragdolls
-* rooq - Mission Descriptions
+* [**Iazer**](https://github.com/lvzxr/apb-reloaded) - Sorting the mess that is called my config + Being helpful.
+* [**Flaws**](https://github.com/flawsv/apb) - No Ragdolls
+* [**rooq**](https://www.youtube.com/c/rooq) - Mission Descriptions
 * Esurient - Engine Related Changes
-* Leefekyn - Alt Mission Titles
-* mewpri - Studio Keybinds, Black Sky
-* Pascal - Ambient Sound Removal, GC Related Stuff
-* ApollyoNite - RTW Vegas / Bishada
+* [**Leefekyn**](https://www.twitch.tv/leefekyn) - Alt Mission Titles
+* [**mewpri**](https://mew.re/config/) - Studio Keybinds / Weapon / Vehicle stats
 * jmilos - Combat / Vehicle Keybinds
 <br/>
   
