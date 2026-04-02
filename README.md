@@ -77,7 +77,7 @@ Adds new keybinds to set in-game.
 
 
 ## `Localization` 
-Color changes, raplacements and removals.
+Color changes, replacements and removals.
 
 * `Blue & White`
 * `Pink & White`
