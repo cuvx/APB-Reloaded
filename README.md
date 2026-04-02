@@ -78,14 +78,18 @@ Adds new keybinds to set in-game.
 
 ## `Localization` 
 Color changes, raplacements and removals.
-I'll be working on new colors soon...(ish)
 
 * `Blue & White`
 * `Pink & White`
 * `Purple & White`
 * `Greyscale`
+* `Blue & Orange`
+* `Dark Blue & Dark Red`
+* `Green & Red`
+* `Hot Ping & White`
+* `Turquoise & Magenta`
 
-![Preview](https://i.imgur.com/3cUOP9P.jpeg)
+![Preview](https://i.imgur.com/wszHjqy.jpeg)
 
 ## `Extras` 
 
