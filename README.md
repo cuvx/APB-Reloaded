@@ -86,7 +86,7 @@ Color changes, replacements and removals.
 * `Blue & Orange`
 * `Dark Blue & Dark Red`
 * `Green & Red`
-* `Hot Ping & White`
+* `Hot Pink & White`
 * `Turquoise & Magenta`
 
 ![Preview](https://i.imgur.com/wszHjqy.jpeg)
