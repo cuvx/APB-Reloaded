@@ -158,7 +158,7 @@ Many options to remove Ragdolls and/or Muzzleflash
   * **Ragdolls On + Muzzle On** - Turns on all Ragdolls and keeps Muzzleflash.
 
 
-<sup><sup><sub>Found any issues? Contact me on Discord .Cuve</sub></sub></sup>
+<sup><sup><sup><sup><sup><sub><sub><sub><sub>Found any issues? Contact me on Discord .Cuve</sub></sub></sub></sub></sup></sup></sup></sup></sup>
 
 
 
